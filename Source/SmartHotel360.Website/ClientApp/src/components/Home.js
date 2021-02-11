@@ -19,7 +19,7 @@ class Home extends Component {
             <div className='sh-hero'>
                 <div className='sh-hero-wrapper'>
                     <div className='sh-hero-title'>The future of intelligent hospitality and connected workplace</div>
-                    <div className='sh-hero-subtitle'>Download the App</div>
+                    <!-- <div className='sh-hero-subtitle'>Download the App</div>
                     <ul className='sh-hero-buttons'>
                         <li className='sh-hero-button'>
                             <a className='sh-hero-button-link' href="https://aka.ms/smarthotel360uwp">
@@ -45,7 +45,7 @@ class Home extends Component {
                                  </div>
                             </a>
                         </li>
-                    </ul>
+                    </ul> -->
                 </div>
             </div>
             <Search />
